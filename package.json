@@ -1,0 +1,16 @@
+{
+  "name": "postman_starwar",
+  "version": "1.0.0",
+  "description": "Node Project to store postman collections",
+  "scripts": {
+    "api-tests": "newman run Starwar Assignment.json"
+  },
+  "keywords": [
+    "Postman",
+    "CI"
+  ],
+  "author": "Preema",
+  "dependencies": {
+    "newman": "^4.4.1"
+  }
+}
