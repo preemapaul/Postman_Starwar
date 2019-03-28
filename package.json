@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node Project to store postman collections",
   "scripts": {
-    "api-tests": "newman run Starwar Assignment.json"
+    "api-tests": "newman run StarwarAssignment.json"
   },
   "keywords": [
     "Postman",
